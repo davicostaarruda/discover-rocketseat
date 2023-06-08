@@ -1,4 +1,4 @@
-<img src="./assets/dark-project.png"><img src="./assets/light-project.png">
+<img src="./Discover/assets/dark-project.png"><img src="./Discover/assets/light-project.png">
 
 ## Tecnologias
 
