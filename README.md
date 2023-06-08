@@ -11,4 +11,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Este projeto é um estudo para aprender frontend com Javascript para, mais ã frente, ser desenvolvido com React Native.
+Este projeto é um estudo para aprender frontend com Javascript para, mais à frente, ser desenvolvido com React Native.
